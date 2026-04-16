@@ -11,7 +11,7 @@
         <div class="collapse-transition"
             :style="style"
             v-bind="$attrs"
-            v-if="show">
+            v-show="show">
             <slot/>
         </div>
     </transition>
