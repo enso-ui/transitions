@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/transitions",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "A collection of Vue transitions",
   "main": "index.js",
   "repository": {
