@@ -8,8 +8,6 @@
 </template>
 
 <script>
-import 'animate.css';
-
 const directions = {
     up: 'Up',
     down: 'Down',
